@@ -29,7 +29,7 @@ Sample app for decrypting JWEs in C#
 ## Todo
 
 1. Add function to automatically pull encrypted payloads from a specified consumer using OIDC
-2. Add function to decrypt JWE in the program
+2. Add function to decrypt JWT in the program rather than jwt.io
 
 ## Contributing
 
